@@ -2,8 +2,12 @@
 
 作为演示的范例场景是Scenes/Demo\_1.unity. 接下来对场景中的所有节点(图1)一一做介绍.
 
-<figure><img src="assets/image (7).png" alt=""><figcaption><p> 图1</p></figcaption></figure>
-
+```{image} assets/image (7).png
+:alt: 图1
+:class: bg-primary
+:width: 200px
+:align: center
+```
 
 
 ### Camera
