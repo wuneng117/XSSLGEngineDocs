@@ -12,7 +12,7 @@
 
 接下来介绍画笔的主要功能区
 
-![](docs/assets/image8.png)
+![](assets/image8.png)
 
 1. 画笔添加的对象都是prefab对象, 在这里指定好读取prefab的路径后, prefab的预览图会在4中显示. 使用XSGridEditorBrush和XSUnitNodeBrush时, 只有添加了脚本XSTileNode, XSunitNode的prefab才会在4中正常显示, XSPrefabNodeBrush则没有限制.
 2. 显示画笔使用的prefab对象.
