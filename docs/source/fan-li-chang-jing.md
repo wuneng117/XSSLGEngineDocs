@@ -14,7 +14,7 @@
 
 如图2所示, Camera主要有3个节点组成. 因为我们用到了Cinemachine插件. 如果不知道Cinemachine是什么,可以先看看官方的介绍, 真的是一个很棒的插件!
 
-<img src="assets/image (1).png" alt=""><figcaption><p>图2</p></figcaption>
+<img src="assets/image1.png" alt=""><figcaption><p>图2</p></figcaption>
 
 #### Main Camera
 
@@ -38,7 +38,7 @@ Cinemachine的虚拟相机, 为了实现SRPG相机, 主要使用了以下脚本:
 
 XSGridEditor是插件的重要组成部分, 如图3所示, 主要有3个节点.
 
-<img src="assets/image(9).png" alt=""><figcaption><p>图3</p></figcaption>
+<img src="assets/image9.png" alt=""><figcaption><p>图3</p></figcaption>
 
 #### XSGridEditor
 

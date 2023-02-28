@@ -4,7 +4,7 @@
 
 安装完毕后, 从菜单栏Window->2D->Tile Palette打开画笔界面, 如下图所示:
 
-<img src="assets/image (3).png" alt="" data-size="original">
+<img src="assets/image3.png" alt="" data-size="original">
 
 1. 提供的画笔只实现了红框内的3个按钮, 其他按钮是不实现的.
 2. 这个我们用不到.
