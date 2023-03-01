@@ -4,7 +4,7 @@
 
 安装完毕后, 从菜单栏Window->2D->Tile Palette打开画笔界面, 如下图所示:
 
-<img src="assets/image3.png" alt="" data-size="original">
+<img src="../assets/image3.png" alt="" data-size="original">
 
 1. 提供的画笔只实现了红框内的3个按钮, 其他按钮是不实现的.
 2. 这个我们用不到.
@@ -12,7 +12,7 @@
 
 接下来介绍画笔的主要功能区
 
-![](assets/image8.png)
+![](../assets/image8.png)
 
 1. 画笔添加的对象都是prefab对象, 在这里指定好读取prefab的路径后, prefab的预览图会在4中显示. 使用XSGridEditorBrush和XSUnitNodeBrush时, 只有添加了脚本XSTileNode, XSunitNode的prefab才会在4中正常显示, XSPrefabNodeBrush则没有限制.
 2. 显示画笔使用的prefab对象.

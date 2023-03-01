@@ -2,7 +2,7 @@
 
 XSGridEditor是插件的重要组成部分, 在这里作为演示的范例场景是Scenes/Demo_1.unity. 如图所示, 我们可以在范例场景中找到这个节点.
 
-![](assets/image9.png)
+![](../assets/image9.png)
 
 #### XSGridEditor
 
