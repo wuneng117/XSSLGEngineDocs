@@ -2,7 +2,6 @@
 ===================================
 
 .. toctree::
-   :hidden:
    quickstart
    workflow/brush
    workflow/create_self_tile
