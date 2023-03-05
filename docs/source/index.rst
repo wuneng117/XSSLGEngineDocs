@@ -12,8 +12,6 @@ XSGridEditor是1个轻量的用于2D/3D的SRPG游戏的正方形网格地图系�
 --------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
    quickstart
    workflow/brush
    workflow/create_self_tile
