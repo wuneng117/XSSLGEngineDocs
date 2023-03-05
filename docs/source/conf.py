@@ -53,6 +53,3 @@ myst_enable_extensions = [
     "substitution",
     "tasklist",
 ]
-
-# 自定义侧边栏层级
-html_theme_options['navigation_depth'] = 4
