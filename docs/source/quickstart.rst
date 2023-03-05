@@ -2,4 +2,5 @@
 ========
 
 .. toctree::
+   :maxdepth: 3
    quickstart/dependence
